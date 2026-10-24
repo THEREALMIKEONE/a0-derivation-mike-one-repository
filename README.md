@@ -54,10 +54,6 @@ The high-redshift result is the redshift test (cell p08) of the same suite.
 2. It does not depend on the Hubble-constant tension.
 3. If dark energy evolves, g† ∝ √ρ_DE(z).
 
-## Use of AI tools
-
-AI-assisted tools were used to write the analysis code and to draft and edit the text. The author directed the work, checked all code, results and text, and takes full responsibility for the content.
-
 ## Acknowledgments
 
 The lensing data are from the public compilation of R. Monjo (lensing_RAR_KiDS).
