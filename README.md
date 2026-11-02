@@ -17,7 +17,10 @@ A short letter proposing that the acceleration scale of the galactic radial acce
   - `sparc_vacuum_gdag.py`: SPARC test of g† = c²√(Λ/3)/2π, the commonly quoted form, against cH₀/2π
   - `sparc_likelihood_scan.py`: SPARC ΔBIC as a function of g†; output in `dbic_curve.json`
 
-- Paper 5, *Hyperconical gravity applied to the renormalization scale*, and its scripts now have their own repository: https://github.com/THEREALMIKEONE/Hyperconical-gravity-renormalization-scale-Repository
+
+## Related
+
+- Paper 5, *Hyperconical gravity applied to the renormalization scale*, and its scripts: https://github.com/THEREALMIKEONE/Hyperconical-gravity-renormalization-scale-Repository
 
 ## Results
 
@@ -41,7 +44,7 @@ python jeans_test.py      lensing_RAR_KiDS/data/external_reference/mistele_gg_wl
 python jeans_test_late.py lensing_RAR_KiDS/data
 ```
 
-The SPARC scripts reuse the unchanged likelihood of the companion paper's test suite (`GM_physical_plane_paper.zip`, at https://github.com/THEREALMIKEONE/A-scale-dependent-vacuum-Repository). Put the SPARC rotation curves in `<run dir>/data/sparc/` and `SPARC_Lelli2016c.mrt` in `<run dir>/data/`, then:
+The SPARC scripts reuse the unchanged likelihood of the companion paper's test suite (the folder `GM_physical_plane_paper` inside `A_scale_dependent_vacuum_paper.zip`, at https://github.com/THEREALMIKEONE/A-scale-dependent-vacuum-Repository). Put the SPARC rotation curves in `<run dir>/data/sparc/` and `SPARC_Lelli2016c.mrt` in `<run dir>/data/`, then:
 
 ```
 python sparc_vacuum_gdag.py   <GM_physical_plane_paper dir> <run dir>
