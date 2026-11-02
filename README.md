@@ -9,13 +9,15 @@ A short letter proposing that the acceleration scale of the galactic radial acce
 ## Contents
 
 - `The_galactic_acceleration_scale_as_the_Jeans_rate_of_the_vacuum_Mike_One.pdf`: the letter
-- `letter_source.zip`: its LaTeX source
+- `letter_source.zip`: its LaTeX source (A&A Letters format, with `aa.cls`)
 - `research_note.pdf`: a longer note with the full derivation, every test and the search history
 - Scripts:
   - `jeans_test.py`: galaxy–galaxy weak-lensing circular velocities (Mistele et al. 2024)
   - `jeans_test_late.py`: KiDS-1000 lensing RAR, late-type and blue lenses (Brouwer et al. 2021)
   - `sparc_vacuum_gdag.py`: SPARC test of g† = c²√(Λ/3)/2π, the commonly quoted form, against cH₀/2π
   - `sparc_likelihood_scan.py`: SPARC ΔBIC as a function of g†; output in `dbic_curve.json`
+
+- `hmg_scale_axis/`: scripts and outputs for the paper *Hyperconical gravity applied to the renormalization scale*, which reads hyperconical modified gravity (HMG) as one slice of the scale axis; see its own README
 
 ## Results
 
@@ -51,8 +53,12 @@ The high-redshift result is the redshift test (cell p08) of the same suite.
 ## Predictions
 
 1. The scale is constant for late-type lenses at z ≳ 1. The expansion form predicts 1.8 times larger at z = 1.
-2. It does not depend on the Hubble-constant tension.
+2. It follows the vacuum density: with Ω_m h² fixed by the CMB, H₀ = 73 instead of 67.4 km/s/Mpc would raise it by about 12%, against 8% for cH₀/2π.
 3. If dark energy evolves, g† ∝ √ρ_DE(z).
+
+## Use of AI tools
+
+AI-assisted tools were used to write the analysis code and to draft and edit the text. The author directed the work, checked all code, results and text, and takes full responsibility for the content.
 
 ## Acknowledgments
 

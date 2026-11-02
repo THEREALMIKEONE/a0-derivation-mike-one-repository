@@ -1,0 +1,12 @@
+[free]   chi2 = 1399.68  Om = 0.3026  p = +0.011  h = 0.6836  wb = 0.02234  -> Omega_vac today = 0.6974
+[p = 0, LCDM] chi2 = 1404.22 (dchi2 +4.53)  Om = 0.3017  Omega_vac = 0.6982
+[W1] Omega_vac = 2/3: chi2 = 1458.99, dchi2 = +59.31 (FAIL); p = +0.017, h = 0.6619
+     same with p = 0 forced: dchi2 = +68.32
+[expansion SN+BAO+CMB] p = +0.004 +- 0.004
+     Omega_vac today along the profile: p=-0.10: 0.695, p=-0.00: 0.698, p=+0.10: 0.677, p=+0.20: 0.609, p=+0.30: 0.500, p=+0.40: 0.500, p=+0.50: 0.500
+[W2] omega_J/H today = 1.0228 ; omega_J = H at z = 0.049
+     age t0 = 13.79 Gyr; omega_J t0 = 0.986
+[W3] discs p = +0.328 +- 0.204; expansion p = +0.004 +- 0.004; 1.6 sigma apart -> PASS
+     joint p = +0.004 +- 0.004  (p=0: 0.9 sigma, p=1: 227.7 sigma); per sample: Price+21 +0.68+-0.24, KROSS -0.38+-0.62, KMOS3D -0.89+-0.61, KGES -1.72+-1.24
+     g(z=1)/g(0) = 1.002  (expansion reading cH/2pi: 1.76)
+     g(z=2)/g(0) = 1.004  (expansion reading cH/2pi: 2.96)

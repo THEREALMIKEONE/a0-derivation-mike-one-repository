@@ -1,0 +1,2 @@
+vacuum clock, Planck 2018 vacuum: g = 1.0556e-10 -> s = 0.295   (fitted: late-type 0.329 +- 0.023, blue 0.314 +- 0.023)
+vacuum clock, HMG Omega_L 0.6937: g = 1.0625e-10 -> s = 0.296   (fitted: late-type 0.329 +- 0.023, blue 0.314 +- 0.023)

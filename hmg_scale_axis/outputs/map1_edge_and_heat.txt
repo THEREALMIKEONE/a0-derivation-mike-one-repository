@@ -1,0 +1,12 @@
+moment                            S_heat |  standard: t  S_edge    gap |       HMG: t  S_edge    gap
+today                               72.7 |      13.8 Gyr   139.9   67.3 |      14.5 Gyr   139.9   67.3
+galaxy discs at z = 2               71.6 |      3.27 Gyr   138.8   67.3 |      4.84 Gyr   138.8   67.3
+CMB (recombination)                 65.7 |  3.72e+05 yr   129.9   64.2 |  1.33e+07 yr   133.0   67.3
+nucleosynthesis, T = 0.1 MeV        52.8 |        132 s   104.9   52.0 |      34.1 yr   120.1   67.3
+protons form, T = 150 MeV           45.5 |   5.87e-05 s    90.2   44.7 |       8.3 day   112.8   67.3
+electroweak, T = 100 GeV            39.0 |   1.32e-10 s    77.2   38.2 |   1.08e+03 s   106.3   67.3
+
+gap = edge minus active layer, in e-folds. HMG: constant, the active layer always 67 e-folds below the edge.
+Standard: the gap shrinks into the past (radiation era: H ~ T^2).
+Today both edges agree: standard c/H0 at S = 139.95, HMG ct0 at S = 139.95.
+At z = 2 the edges differ by -0.01 e-folds: the late sheet is the same in both.

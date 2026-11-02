@@ -1,0 +1,12 @@
+layer                           S   radius m  vacuum kg/m3  accel m/s2  rho/rho_P  (l_P/R)^2
+floor                         0.0   2.29e-35      2.13e+95    6.38e+50   5.00e-01   5.00e-01
+W mass                       39.2   2.45e-18      1.85e+61    5.94e+33   4.34e-35   4.34e-35
+confinement (alpha_s=1)      44.9   6.90e-16      2.34e+56    2.11e+31   5.49e-40   5.49e-40
+electron                     51.2   3.86e-13      7.48e+50    3.78e+28   1.75e-45   1.75e-45
+Bohr radius                  56.1   5.29e-11      3.98e+46    2.76e+26   9.33e-50   9.33e-50
+largest cold body            97.7   5.88e+07      3.23e+10    2.48e+08   7.56e-86   7.56e-86
+Milky Way with halo         128.5   1.50e+21      4.96e-17    9.73e-06  1.16e-112  1.16e-112
+our layer, c/H0             139.9   1.37e+26      5.92e-27    1.06e-10  1.39e-122  1.39e-122
+
+our layer: HMG vacuum = 0.6937 rho_crit; fitted 0.6972 +- 0.0037 -> 0.9 sigma
+galactic scale g = c*sqrt(4 pi G rho)/2pi = 1.063e-10 m/s2 ; gamma0 = 4pi/sqrt(3 Omega_L/2) = 12.32 ; angle = 0.4624 pi (Monjo 2024 fits: 0.460+-0.002, 0.468+-0.003)
