@@ -1,1 +1,0 @@
-edge today S = 139.90; edge at Planck time S = -0.35; dark-energy layer moved -0.029 in S since t = 1 Gyr

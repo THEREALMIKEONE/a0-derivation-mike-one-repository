@@ -17,7 +17,7 @@ A short letter proposing that the acceleration scale of the galactic radial acce
   - `sparc_vacuum_gdag.py`: SPARC test of g† = c²√(Λ/3)/2π, the commonly quoted form, against cH₀/2π
   - `sparc_likelihood_scan.py`: SPARC ΔBIC as a function of g†; output in `dbic_curve.json`
 
-- `hmg_scale_axis/`: scripts and outputs for the paper *Hyperconical gravity applied to the renormalization scale*, which reads hyperconical modified gravity (HMG) as one slice of the scale axis; see its own README
+- Paper 5, *Hyperconical gravity applied to the renormalization scale*, and its scripts now have their own repository: https://github.com/THEREALMIKEONE/Hyperconical-gravity-renormalization-scale-Repository
 
 ## Results
 

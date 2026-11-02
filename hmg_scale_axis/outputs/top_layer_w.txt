@@ -1,8 +1,0 @@
- z    w_eff(p=0.011)  w_eff(p=0.016, +1 sigma)   DESI DR2+CMB+DESY5 CPL (w0=-0.752, wa=-0.86)
- 0.0   -0.9965          -0.9949                    -0.752
- 0.3   -0.9944          -0.9919                    -0.950
- 0.5   -0.9933          -0.9902                    -1.039
- 1.0   -0.9914          -0.9874                    -1.182
- 2.0   -0.9898          -0.9852                    -1.325
-
-CPL best fit crosses w = -1 at z = 0.41; the p-family (and v3's ghost-free S(t)) never goes below -1.
