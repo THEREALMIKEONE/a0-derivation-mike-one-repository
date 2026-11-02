@@ -26,7 +26,7 @@ A short letter proposing that the acceleration scale of the galactic radial acce
 
 | Dataset | Jeans rate (this work) | cH(z)/2π | c²√(Λ/3)/2π |
 |---|---|---|---|
-| SPARC, 153 galaxies (ΔBIC) | −7.8 | −7.8 | +53 |
+| SPARC, 153 galaxies (ΔBIC) | −7.8 | −7.2 | +53 |
 | Galaxy–galaxy lensing (Δχ²) | +3.2 | +0.9 | +19.0 |
 | KiDS late/blue lensing (Δχ²) | +1.2 | +0.2 | +13.8 |
 | High-z kinematics, R = +0.33 ± 0.20 | 1.7σ | excluded, 3.4σ | 1.7σ |
